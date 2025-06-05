@@ -1,4 +1,4 @@
 
 ## Extreme OOB Server
 
-p0intsec 2025 MIT Licen
+p0intsec 2025 MIT License
