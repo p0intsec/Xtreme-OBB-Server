@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.next/
+
+# Environment variables
+.env*
+!.env.example
+
+# Production
+build
+out
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local development
+.vercel
